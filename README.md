@@ -4,5 +4,5 @@
 * Not so good at dealing with other people's emotions
 * Brutally honest
 * Loves questioning and rethinking fundamentals (e.g. conventions, status quo, ect)
-* Hates entrepeneurship and everything related to it
+* Hates hustle culture and everything related to it
 * tabs > spaces (but consistency above all)
